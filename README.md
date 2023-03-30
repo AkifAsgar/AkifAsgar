@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif Asgar f</h1>
-<h3 align="center">l am student of Azerbaijan Techinal Universty and leaning Python,Html,Css,Javascript,Mysql languages</h3>
+<h3 align="center">l am student of Azerbaijan Techinal Universty and leaning Python,Django,DRF, </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
