@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akif Asgar f</h1>
+<h1 align="center">Hi 👋, I'm Akif Asgar </h1>
 <h3 align="center">l am student of Azerbaijan Techinal Universty and learning Python,Django,DRF at the moment </h3>
 
 <h3 align="left">Connect with me:</h3>
